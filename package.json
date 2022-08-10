@@ -1,0 +1,23 @@
+{
+  "name": "node-mailer-gmail-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeczycielBiedronek/NODE-mailer-GMAIL-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeczycielBiedronek/NODE-mailer-GMAIL-API/issues"
+  },
+  "homepage": "https://github.com/MeczycielBiedronek/NODE-mailer-GMAIL-API#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
